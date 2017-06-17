@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+  1. Reading documentation is key when needing to find something you may not have down by memory.
+  2. Translating the document into HTML was not as difficult as once imagined.
+  3. Maybe it wasn't difficult but being meticulous is important so, being patient was a bit difficult. Wanting to complete the project and go to the next task is a place of focus for me.
+  4. Looking through documentation to answer a problem is useful. Being resilient when faced with a challenge is paramount.
+
